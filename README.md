@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaiwat Ratanapan</h1>
-<h3 align="center">Now Front-end Developer Next Full-Stack 🤝</h3>
+<h3 align="center">Now Front-end Developer Next & Nuxt 🤝</h3>
 
 - 🌱 I’m currently learning **React.js**
 
